@@ -1,4 +1,4 @@
-# SleepTimer
+# SleepTimer for Linux
 
 An Java-Aplication that can put your computer to sleep for the number of minutes you need.
 
