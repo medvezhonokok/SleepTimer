@@ -6,8 +6,8 @@ An Java-Aplication that can put your computer to sleep for the number of minutes
 
 ```bash
 mkdir SleepTimer
+cd SleepTimer
 git clone https://github.com/medvezhonokok/SleepTimer
-cd SleepTimer 
 ```
 
 - В [sleep.sh](https://github.com/medvezhonokok/SleepTimer/tree/main/scripts): замените "your_password" на ваш пароль от
