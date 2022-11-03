@@ -10,7 +10,6 @@ $ cd SleepTimer
 $ git clone https://github.com/medvezhonokok/SleepTimer
 ```
 
-- В [sleep.sh](https://github.com/medvezhonokok/SleepTimer/tree/main/scripts): замените "your_password" на ваш пароль от
-  компьютера
-- В [RunScript.java](https://github.com/medvezhonokok/SleepTimer/blob/main/src/main/java/ru/mkim/sleep/RunScript.java)
-  полю PATH задайте полный путь до sleep.sh
+- In [sleep.sh](https://github.com/medvezhonokok/SleepTimer/tree/main/scripts): replace "your_password" on your pc password  
+- In [RunScript.java](https://github.com/medvezhonokok/SleepTimer/blob/main/src/main/java/ru/mkim/sleep/RunScript.java)
+  let PATH be the absolute path to sleep.sh
